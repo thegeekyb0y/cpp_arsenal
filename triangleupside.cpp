@@ -1,15 +1,3 @@
-#Output 
-
-x
-xx
-xxx
-xxxx
-xxxxx
-
-------------------------------------------------------------------------
-# Code goes here:
-
-
 #include <iostream>
 using namespace std;
 
