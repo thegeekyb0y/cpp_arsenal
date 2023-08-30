@@ -1,5 +1,9 @@
-# cpp_patterns
-Collection of patterns based on loops.
+# CPP Coding Patterns ⚡
+Collection of patterns I learnt in cpp, based on loops. 
+**Click the pattern name to see the code for the particular pattern.**
+
+
+---
 
 [1. Hollow Rectangle](https://github.com/thegeekyb0y/cpp_patterns/blob/main/hollowrectangle.cpp)
 
@@ -13,5 +17,7 @@ Collection of patterns based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/bb3e2770-ef3c-4861-a974-e6b08f65bd88)
 
+[4. Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/numericrectangle.cpp)
 
+![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/9105be55-5ab6-4a21-bc92-182283dc3b33)
 
