@@ -29,9 +29,14 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/152036ee-068f-4a7b-956f-8eee3219eee4)
 
-[7. Center Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/7_numbercentertriangle.cpp)
+[7. Center Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/7_numeric_centertriangle.cpp)
 
 ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/a54a0f43-e820-46f0-a17f-20d4ec53bb58)
+
+[8. Left Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/8_leftnumeric_triangle.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/ee186189-17f4-4c9d-a2c3-9e9eb146041d)
+
 
 
 
