@@ -25,4 +25,7 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/a372efa4-69bc-4842-9522-2b127b2d6f69)
 
+[6. Hollow Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/6_numeric_hollowrectangle.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/152036ee-068f-4a7b-956f-8eee3219eee4)
 
