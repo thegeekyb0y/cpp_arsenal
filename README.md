@@ -19,8 +19,10 @@ Collection of patterns I learnt in cpp, based on loops.
 
 [4. Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/4_numericrectangle.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/9105be55-5ab6-4a21-bc92-182283dc3b33) ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/fa8f275b-44f3-4b26-8625-a14df48ea459) 
+![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/9105be55-5ab6-4a21-bc92-182283dc3b33) ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/fa8f275b-44f3-4b26-8625-a14df48ea459)
 
+[5. Simple Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/5_numericrectanglesimple.cpp)
 
+![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/a372efa4-69bc-4842-9522-2b127b2d6f69)
 
 
