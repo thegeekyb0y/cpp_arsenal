@@ -19,23 +19,23 @@ Collection of patterns I learnt in cpp, based on loops.
 
 [4. Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/4_numericrectangle.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/9105be55-5ab6-4a21-bc92-182283dc3b33) ![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/fa8f275b-44f3-4b26-8625-a14df48ea459)
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/9105be55-5ab6-4a21-bc92-182283dc3b33) ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/fa8f275b-44f3-4b26-8625-a14df48ea459)
 
-[5. Simple Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/5_numericrectanglesimple.cpp)
+[5. Simple Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/5_numericrectanglesimple.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/a372efa4-69bc-4842-9522-2b127b2d6f69)
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/a372efa4-69bc-4842-9522-2b127b2d6f69)
 
-[6. Hollow Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/6_numeric_hollowrectangle.cpp)
+[6. Hollow Rectangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/6_numeric_hollowrectangle.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/152036ee-068f-4a7b-956f-8eee3219eee4)
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/152036ee-068f-4a7b-956f-8eee3219eee4)
 
-[7. Center Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/7_numeric_centertriangle.cpp)
+[7. Center Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/7_numeric_centertriangle.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/a54a0f43-e820-46f0-a17f-20d4ec53bb58)
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/a54a0f43-e820-46f0-a17f-20d4ec53bb58)
 
-[8. Left Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_patterns/blob/main/8_leftnumeric_triangle.cpp)
+[8. Left Triangle Numeric Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/8_leftnumeric_triangle.cpp)
 
-![image](https://github.com/thegeekyb0y/cpp_patterns/assets/84658112/ee186189-17f4-4c9d-a2c3-9e9eb146041d)
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/ee186189-17f4-4c9d-a2c3-9e9eb146041d)
 
 
 
