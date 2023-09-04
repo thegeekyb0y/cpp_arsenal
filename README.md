@@ -41,6 +41,11 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/a242520d-6c08-4365-96b8-3f8b97233e60)
 
+[10. Left Numeric Triangle Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/10_leftTriangleReverseNumeric.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/4c144bd9-6d3d-46da-9fa1-4d1e889b5a18)
+
+
 
 
 
