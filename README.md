@@ -37,6 +37,11 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/ee186189-17f4-4c9d-a2c3-9e9eb146041d)
 
+[9. Alternate Numeric Rectangular Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/9_alternateNumericRectangle.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/a242520d-6c08-4365-96b8-3f8b97233e60)
+
+
 
 
 
