@@ -49,9 +49,9 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/23ce0024-f5b1-42af-ab3b-d04d21fccd9a)
 
+[12. Reverse Numeric Triangle Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/12_reverseNumericTriangle2.cpp)
 
-
-
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/3e9d1374-2315-49ea-a8ab-9af6d369971b)
 
 
 
