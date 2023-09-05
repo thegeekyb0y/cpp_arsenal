@@ -45,6 +45,10 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/4c144bd9-6d3d-46da-9fa1-4d1e889b5a18)
 
+[11. Reverse Numeric Rectangle Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/11_reverseNumericRectangle.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/23ce0024-f5b1-42af-ab3b-d04d21fccd9a)
+
 
 
 
