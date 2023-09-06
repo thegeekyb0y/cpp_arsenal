@@ -1,6 +1,6 @@
 # CPP Coding Patterns ⚡
 Collection of patterns I learnt in cpp, based on loops. 
-**Click the pattern name to see the code for the particular pattern.**
+**Click the pattern name to see the code for the particular pattern.** Updating more as I learn new ones.
 
 
 ---
