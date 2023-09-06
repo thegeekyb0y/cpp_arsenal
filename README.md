@@ -53,5 +53,5 @@ Collection of patterns I learnt in cpp, based on loops.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/3e9d1374-2315-49ea-a8ab-9af6d369971b)
 
-
+[13. Simple Numeric Count Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/13_simplecountingpattern.cpp)
 
