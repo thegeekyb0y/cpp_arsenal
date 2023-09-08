@@ -1,6 +1,6 @@
-# CPP Coding Patterns ⚡
-Collection of patterns I learnt in cpp, based on loops. 
-**Click the pattern name to see the code for the particular pattern.** Updating more as I learn new ones.
+# CPP Coding Patterns and Questions ⚡
+Collection of patterns and questions I learnt in cpp, based on loops only. 
+**Click the pattern/question name to see the code for the particular pattern.** Updating more as I learn new ones.
 
 
 ---
@@ -56,5 +56,11 @@ Collection of patterns I learnt in cpp, based on loops.
 [13. Simple Numeric Count Pattern ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/13_simplecountingpattern.cpp)
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/165eae46-8b4c-4d57-a46c-18f4c2352cc7)
+
+---
+
+[14. {QUESTION} Count the number of digits in a given number by user.](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/digitsCounter.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/1670c0b4-d5b4-48fc-84dd-af98c3a1808f)
 
 
