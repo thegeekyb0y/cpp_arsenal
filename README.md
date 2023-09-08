@@ -68,6 +68,10 @@ Collection of patterns and questions I learnt in cpp, based on loops only.
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/4092416d-4340-41da-a5ee-72122cd20337)
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/52c19f46-287a-45c0-ab90-e6f4d499fbf3)
 
+[16. {QUESTION} Reverse the digits of a number.](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/reversedigits.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/9cfff6ef-c99f-4ce5-8ed4-e062ff71d4b8)
+
 
 
 
