@@ -11,5 +11,5 @@ int main() {
     sum = sum+lastdigit ;
     n = n/10;
   }
-  cout << "Sum of " << n << "is " << sum;
+  cout << "Sum of digits is " << sum;
 }
