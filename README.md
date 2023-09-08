@@ -63,4 +63,13 @@ Collection of patterns and questions I learnt in cpp, based on loops only.
 
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/1670c0b4-d5b4-48fc-84dd-af98c3a1808f)
 
+[15. {QUESTION} Find the Sum of digits in a given number by user.](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/sumdigits.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/c64fcd42-f38d-441a-94ee-8182a4bdced7)![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/52c19f46-287a-45c0-ab90-e6f4d499fbf3)
+
+
+
+
+
+
 
