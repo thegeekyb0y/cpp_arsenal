@@ -77,6 +77,9 @@ Collection of patterns and questions I learnt in cpp, based on loops only.
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/9b102f6e-a800-4cc7-9b2e-945565febd88)
 
 
+[18. Factorial of a number ](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/factorial.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/4f57adb5-9c4f-473d-86af-2c0e2cb3d57a)
 
 
 
