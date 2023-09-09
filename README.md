@@ -73,6 +73,11 @@ Collection of patterns and questions I learnt in cpp, based on loops only.
 ![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/9cfff6ef-c99f-4ce5-8ed4-e062ff71d4b8)
 
 
+[17. {QUESTION} Binary to Decimal Conversion.](https://github.com/thegeekyb0y/cpp_arsenal/blob/main/binarytodecimal.cpp)
+
+![image](https://github.com/thegeekyb0y/cpp_arsenal/assets/84658112/9b102f6e-a800-4cc7-9b2e-945565febd88)
+
+
 
 
 
